@@ -200,6 +200,7 @@ Although there is a slight learning curve to its use, more graphical interfaces,
 	* [Project 2](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%202)
 	* [Project 3](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%203)
 <br>
+
 ---
 
 ## Boilerplate
@@ -207,6 +208,7 @@ Although there is a slight learning curve to its use, more graphical interfaces,
 * OpeningDETAIL will deliver invoices every 2 weeks based on scope complete, with payment due within 30 days of receipt.  Invoices overdue past (60) days will be interpreted as an order to stop work on the project. 
 * This proposal is valid for 90 days. 
 <br>
+
 --- 
 
 We sincerely appreciate the opportunity to submit this proposal and look forward to the potential of a fruitful collaboration in the future.
