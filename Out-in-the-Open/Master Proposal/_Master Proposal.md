@@ -3,7 +3,7 @@
 </p>
 
 
-## Generic Proposal
+## [Generic] Proposal
 
 
 #### For [OpeningDETAIL's](http://openingdetail.com/) Construction Document Services
@@ -23,7 +23,8 @@ Over the years, OpeningDETAIL has developed a preferred and unique way of workin
 
 Simply put, this way of working allows OpeningDETAIL and [our extended team of global collaborators](http://openingdetail.com/people/), to be more efficient--ultimately keeping costs down and bringing more value to our clients.  Having said that, we understand some clients, for whatever reason, may have hesitations regarding this approach.
 
-To address [our client]'s concerns potential concerns, if any, we would like to offer the following (3) workflow and fee options:
+To address [our client]'s potential concerns, if any, we would like to offer the following (3) workflow and fee options:
+<br>
 
 ### Approach A
  * **Approach (A): A Fully Open Approach** where all the newly created documentation, the project location, and the names of the parties involved in the project *(essentially those listed in the project's title block)* are known and are shared publicly.  All of OpeningDETAIL's newly created documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our clients] and OpeningDETAIL.  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) are honored.
@@ -36,7 +37,7 @@ To address [our client]'s concerns potential concerns, if any, we would like to 
 ### Approach B
  * **Approach (B): An Anonymous Open Approach** where all newly created documentation is shared publicly, however, the project location and the names of the direct or indirect clients, are kept anonymous.   Again, similar to approach (A), all of OpeningDETAIL's newly created digital documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our clients] and OpeningDETAIL.  
 	 * **The following is a sample project, from our sister company OpeningDesign, that used this approach:**
-		 * We used this approach on an office/warehouse facility here in southern Wisconsin, of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDesign/Open_Source_Metal_Building).
+		 * An office/warehouse facility in southern Wisconsin, of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDesign/Open_Source_Metal_Building).
 
 <br>
 
@@ -62,58 +63,39 @@ To address [our client]'s concerns potential concerns, if any, we would like to 
 The following is a breakdown on how fees are prorated relative to how 'open' the project can be.
 <br> 
 
-
-<!--
-> Please Note:  Services performed in Phase 1 (Programming) will be discounted **25%** discount.
--->
-
-
 <table cellspacing="0" border="0">
 	<colgroup width="275"></colgroup>
 	<colgroup span="4" width="90"></colgroup>
 	<tbody><tr>
-		<td height="103" align="center" valign="middle"><b><font face="Century Gothic">Discipline</font></b></td>
+		<td height="103" align="center" valign="middle"><b><font face="Century Gothic">Skill Level</font></b></td>
 		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(A)</font></b></td>
 		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(B)</font></b></td>
 		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(C)</font></b></td>
 		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Century Gothic">A Rough Estimated Percentage of Fees</font></b></td>
 	</tr>
 	<tr>
-		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Century Gothic">Architecture (<a href="http://openingdesign.com/">OpeningDesign</a>)</font></b></td>
-		<td align="center" valign="middle" sdval="0.888888888888889" sdnum="1033;0;0.0%"><font face="Century Gothic">88.9%</font></td>
-	</tr>
+		<td colspan="5" height="17" align="left" valign="middle"><b><font face="Century Gothic">OpeningDETAIL</font></b></td>
+		</tr>
 	<tr>
-		<td height="17" align="left"><font face="Century Gothic">Skill Level 1</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$85/HR</font></td>
-		<td align="center" valign="middle" sdval="95" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$95/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Century Gothic"><br></font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left"><font face="Century Gothic">Skill Level 2</font></td>
+		<td height="17" align="left"><font face="Century Gothic">Skill Level 1 (Senior Architect)</font></td>
 		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
 		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
 		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$85/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Century Gothic"><br></font></td>
+		<td align="center" valign="middle" sdval="0.35" sdnum="1033;0;0.0%"><font face="Century Gothic">35.0%</font></td>
 	</tr>
 	<tr>
-		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Century Gothic">Structural Engineer</font></b></td>
-		<td align="center" valign="middle" sdval="0.0740740740740741" sdnum="1033;0;0.0%"><font face="Century Gothic">7.4%</font></td>
-	</tr>
-	<tr>
-		<td height="17" align="left"><font face="Century Gothic">Skill Level 1</font></td>
+		<td height="17" align="left"><font face="Century Gothic">Skill Level 2 (Architect)</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$55/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
 		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$85/HR</font></td>
-		<td align="center" valign="middle" sdval="95" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$95/HR</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Century Gothic"><br></font></td>
+		<td align="center" valign="middle" sdval="0.45" sdnum="1033;0;0.0%"><font face="Century Gothic">45.0%</font></td>
 	</tr>
 	<tr>
-		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Century Gothic">Potential Additional Consultants</font></b></td>
-		<td align="center" valign="middle" sdval="0.037037037037037" sdnum="1033;0;0.0%"><font face="Century Gothic">3.7%</font></td>
-	</tr>
-	<tr>
-		<td colspan="4" height="17" align="left" valign="top"><font face="Century Gothic">• Lighting</font></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><font face="Century Gothic"><br></font></td>
+		<td height="17" align="left"><font face="Century Gothic">Skill Level 3 (Intern)</font></td>
+		<td align="center" valign="middle" sdval="45" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$45/HR</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$55/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.0%"><font face="Century Gothic">20.0%</font></td>
 	</tr>
 	<tr>
 		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Century Gothic">TOTAL</font></b></td>
@@ -121,6 +103,7 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 	</tr>
 </tbody></table>
 
+*Please note, skill level allocation may change from project to project.*
 
 
 >We have found using hourly rates, opposed to lump sums, are win-win for both parties.  OpeningDETAIL has a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  
@@ -156,23 +139,11 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 
 ---
 
-## Boilerplate
 
-* OpeningDETAIL will deliver invoices every 2 weeks based on scope complete, with payment due within 30 days of receipt.  Invoices overdue past (60) days will be interpreted as an order to stop work on the project. 
-* This proposal is valid for 90 days. 
 
----
+<br>
 
-## Sample Projects
-
-* If so inclined, to get a sense of our work, please review the following open source sample projects (Revit & PDFs) OpeningDETAIL has done over the years. 
-	* [Project 1](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%201)
-	* Project 2
-	* Project 3 
-
----
-
-## Typical Work Flow
+## Typical Workflow & Technologies
 <br>
 
 ### Communication
@@ -201,7 +172,7 @@ From the onset, and throughout the duration of the project, we like to keep the 
 
 ### CD Documentation
 
-Using a combination of [Revit](https://www.autodesk.com/products/revit-family/overview), [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes), [FreeCad](https://www.freecadweb.org/) & [Dynamo](http://dynamobim.org/) Scripts, **OpeningDETAIL** uses a unique methodology to compose [our client]'s small scale details.  Instead of 2D fills, lines, and simple text annotation, as is typically done with details in Revit, we model our details in 3D.  By attaching various material assignments to these 3D objects, along with Revit's intelligent **Material Tag** and a custom **Dynamo Script**, we are able to automate the annotation of these details.
+Using a combination of [Revit](https://www.autodesk.com/products/revit-family/overview), [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes), [FreeCad](https://www.freecadweb.org/) & [Dynamo](http://dynamobim.org/) Scripts, **OpeningDETAIL** uses a unique methodology to compose our client's small scale details.  Instead of 2D fills, lines, and simple text annotation, as is typically done with details in Revit, we model our details in 3D.  By attaching various material assignments to these 3D objects, along with Revit's intelligent **Material Tag** and a custom **Dynamo Script**, we are able to automate the annotation of these details.
 
 Also, by using 3D and the open [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes) format, we are able to roundtrip our details between FreeCAD and Revit.  This, along with the automated annotation, in part, allows us to keep costs down.  
 
@@ -211,6 +182,31 @@ During the project, at milestone issuances, and at any requested interval, we ar
 * PDFs
 * IFC
 
+<br>
+
+### File Hosting
+Internally, OpeningDETAIL uses [GitHub](https://github.com/) for file sharing and version tracking of files. Although it is not required that [our clients] use Github, if they so choose, they are welcome to sync our the project [repo](https://en.wikipedia.org/wiki/Repository_(version_control)) at any time.  
+
+Although there is a slight learning curve to its use, more graphical interfaces, such as Github's [desktop client](https://desktop.github.com/), make it a little easier to sync files.
+
+<br>
+
+---
+
+## Sample Projects
+
+* If so inclined, to get a sense of our work, please review the following open source sample projects (Revit & PDFs) OpeningDETAIL has done over the years. 
+	* [Project 1](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%201)
+	* [Project 2](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%202)
+	* [Project 3](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%203)
+<br>
+---
+
+## Boilerplate
+
+* OpeningDETAIL will deliver invoices every 2 weeks based on scope complete, with payment due within 30 days of receipt.  Invoices overdue past (60) days will be interpreted as an order to stop work on the project. 
+* This proposal is valid for 90 days. 
+<br>
 --- 
 
 We sincerely appreciate the opportunity to submit this proposal and look forward to the potential of a fruitful collaboration in the future.
@@ -223,7 +219,9 @@ If the terms of this proposal are acceptable please sign in the space offered be
 -->
 
 
-<!--Finally,-->Please don't hesitate to contact me should you have any questions or need clarification about the proposal--would be more than happy to sit down and have a more nuanced discussion.
+<!--Finally,-->
+
+Please don't hesitate to contact me should you have any questions or need clarification about the proposal--would be more than happy to sit down and have a more nuanced discussion.
 
 
 Kind Regards,
@@ -232,11 +230,11 @@ Kind Regards,
 <img src="https://raw.githubusercontent.com/OpeningDesign/OD_Library/master/Marketing/Signatures/signature.jpg" width="200px"/>
 
 
-Ryan Schultz
-ryan@openingDETAIL.com
-773.425.6456
-316 W Washington Ave | #675
-Madison, Wisconsin 53703
+Ryan Schultz<br>
+ryan@openingDETAIL.com<br>
+773.425.6456<br>
+316 W Washington Ave | #675<br>
+Madison, Wisconsin 53703<br>
 
 
 <br>
@@ -279,3 +277,6 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 
 [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) to be given to both our clients and OpeningDETAIL.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUyOTAzNjgwM119
+-->
