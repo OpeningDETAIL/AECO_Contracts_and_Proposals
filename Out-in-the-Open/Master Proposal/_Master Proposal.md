@@ -1,5 +1,5 @@
 <p align="right" style="" >
-<img src="https://dl.dropbox.com/s/j6a0zk9hhxgiksn/OpeningDetail_Just%20Logo.png?dl=0" width="120px"/>
+<img src="https://dl.dropbox.com/s/j6a0zk9hhxgiksn/OpeningDetail_Just%20Logo.jpg?dl=0" width="120px"/>
 </p>
 
 
@@ -27,7 +27,7 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 <br>
 
 ### Approach A
- * **Approach (A): A Fully Open Approach** where all the newly created documentation, the project location, and the names of the parties involved in the project *(essentially those listed in the project's title block)* are known and are shared publicly.  All of OpeningDETAIL's newly created documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our clients] and OpeningDETAIL.  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) are honored.
+ * **Approach (A): A Fully Open Approach** where all the newly created documentation, the project location, and the names of the parties involved in the project *(essentially those listed in the project's title block)* are known and are shared publicly.  All of OpeningDETAIL's newly created documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our clients] and OpeningDETAIL.  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) are honored. 
 	 * **The following are sample projects, from our sister company OpeningDesign, that used this approach:**
 		 * A **Sport Complex** in Jefferson, WI, the files (CAD/BIM) of which can be found [here](https://github.com/OpeningDesign/Sports_Complex) and a log of communication that happened between the design team and general contractor, [here](https://github.com/OpeningDesign/Sports_Complex/issues?q=is:issue+is:closed+sort:comments-desc).
 		 * A **Vacation Rental** project in Lake Geneva, WI.  The (CAD/BIM) documents can be found [here](https://github.com/OpeningDesign/Vacation_Rental) and the log of communication between the design team can be found [here](https://github.com/OpeningDesign/Vacation_Rental/issues?q=is%3Aissue+is%3Aclosed+sort%3Acomments-desc).
@@ -281,4 +281,7 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzgxMjUyNjIwXX0=
 -->
