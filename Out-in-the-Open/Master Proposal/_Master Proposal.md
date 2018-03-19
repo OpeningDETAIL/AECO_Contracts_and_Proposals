@@ -165,7 +165,7 @@ From the onset, and throughout the duration of the project, we like to keep the 
 * Graphical Issue Tracking and Redlining
 	* Simple PDF markups.
 	* Web-based markup tools:
-		* [PlanGrid](https://plangrid.com/) - web-based markup tools: 
+		* [PlanGrid](https://plangrid.com/)
 		* [RealtimeBoard](https://realtimeboard.com/)
 
 <br>
