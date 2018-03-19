@@ -19,9 +19,9 @@ FOR:
 
 ## Workflow Options
 
-Over the years, OpeningDETAIL has developed a preferred and unique way of working.  Although our website's [about page](http://openingdetail.com/a-little-more-about-us/) provides more detail, in a nutshell, most of our projects are [open source](http://en.wikipedia.org/wiki/Open_source) and are conducted **out-in-the-open**.
+Over the years, OpeningDETAIL has developed a preferred and unique way of working.  Although our website's [About page](http://openingdetail.com/a-little-more-about-us/) provides more detail, in a nutshell, most of our projects are [open source](http://en.wikipedia.org/wiki/Open_source) and are conducted **out-in-the-open**.
 
-Simply put, this way of working allows OpeningDETAIL and [our extended team of global collaborators](http://openingdetail.com/people/), to be more efficient--ultimately keeping costs down and bringing more value to our clients.  Having said that, we understand some clients, for whatever reason, may have hesitations regarding this approach.
+Simply put, this way of working allows OpeningDETAIL and [our extended team of global collaborators](http://openingdetail.com/people/), to be more efficient--ultimately keeping costs down and bringing more value to our clients.  Having said that, we understand some clients may have hesitations regarding this approach.
 
 To address [our client]'s potential concerns, if any, we would like to offer the following (3) workflow and fee options:
 <br>
@@ -278,5 +278,5 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) to be given to both our clients and OpeningDETAIL.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTAzNjgwM119
+eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
