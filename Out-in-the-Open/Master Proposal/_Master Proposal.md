@@ -171,9 +171,15 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 
 ## A Rough Estimate
 
-Although our proposal is based on an hourly rate alone, to give [our client] a ballpark figure,  under typical conditions, we estimate each small scale (3" = 1'-0") detail will be between $175-$275.
+Although our proposal is based on an hourly rate alone, to give [our client] a ballpark figure,  under typical conditions, we estimate each small scale (3" = 1'-0") detail will be between...
+- Approach A: $175-$275
+- Approach B: $200-300
+- Approach C: $225-350
 
-At (44) details *(as outlined in [our client]'s recent marked up PDF)* it would be between $7,700-$12,200.
+At (44) details *(as outlined in [our client]'s recent marked up PDF)* it would be between...
+- Approach A: $7,700-$12,200
+- Approach B: $8800-$13,200
+- Approach C: $9900-$15400
 
 Obviously, the cost per detail will be more at first, as we get up to speed with desired materials and construction methods, but the more details we do, the more efficient we will be. 
 
@@ -351,6 +357,6 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzIzMDk4NiwtMTc5NTkwNjIzMCwzOD
-EyNTI2MjAsOTQ4NjY2Mjg3XX0=
+eyJoaXN0b3J5IjpbNDIyMDc0NDYsMTk3MzIzMDk4NiwtMTc5NT
+kwNjIzMCwzODEyNTI2MjAsOTQ4NjY2Mjg3XX0=
 -->
