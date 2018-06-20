@@ -1,21 +1,61 @@
+
+
 <p align="right" style="" >
-<img src="https://dl.dropbox.com/s/j6a0zk9hhxgiksn/OpeningDetail_Just%20Logo.jpg?dl=0" width="120px"/>
+<img src="https://dl.dropbox.com/s/w0h59r3fxbrp38s/OpeningDetail_with%20name.JPG?dl=0" width="120px"/>
 </p>
 
 
-## [Generic] Proposal
 
 
-#### For [OpeningDETAIL's](http://openingdetail.com/) Construction Document Services
+<br>
+
+
+
+<img align="left" src="https://" width="450px">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## xxx
+
+
+#### An [OpeningDETAIL](http://openingdetail.com/) Proposal for Construction Document Services
 
 ---
 FOR:
 
+
 > xxx<br>
 > xxx<br>
 > xxx<br>
 ---
-<br>
+
+
+Hi Anders,
+
+Was a pleasure chatting the other day. I'm excited about the potential of working together!
+
+Thank you for the opportunity to share the following proposal.
+
+Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, on a high-level, we understand that the project will include the following list of requirements/priorities...
+
+- Help developing and drafting small scale construction (3"=1'-0") details for...
+- The details will be modeled per the workflow outlined in the **CD Documentation** section below. 
+
+
+
+---
 
 ## Workflow Options
 
@@ -27,7 +67,7 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 <br>
 
 ### Approach A
- * **Approach (A): A Fully Open Approach** where all the newly created documentation, the project location, and the names of the parties involved in the project *(essentially those listed in the project's title block)* are known and are shared publicly.  All of OpeningDETAIL's newly created documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our clients] and OpeningDETAIL.  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) are honored. 
+ * **Approach (A): A Fully Open Approach** where all the newly created documentation, the project location, and the names of the parties involved in the project *(essentially those listed in the project's title block)* are known and are shared publicly.  All of OpeningDETAIL's newly created documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our client] and OpeningDETAIL.  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) are honored. 
 	 * **The following are sample projects, from our sister company OpeningDesign, that used this approach:**
 		 * A **Sport Complex** in Jefferson, WI, the files (CAD/BIM) of which can be found [here](https://github.com/OpeningDesign/Sports_Complex) and a log of communication that happened between the design team and general contractor, [here](https://github.com/OpeningDesign/Sports_Complex/issues?q=is:issue+is:closed+sort:comments-desc).
 		 * A **Vacation Rental** project in Lake Geneva, WI.  The (CAD/BIM) documents can be found [here](https://github.com/OpeningDesign/Vacation_Rental) and the log of communication between the design team can be found [here](https://github.com/OpeningDesign/Vacation_Rental/issues?q=is%3Aissue+is%3Aclosed+sort%3Acomments-desc).
@@ -35,21 +75,21 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 <br>
 
 ### Approach B
- * **Approach (B): An Anonymous Open Approach** where all newly created documentation is shared publicly, however, the project location and the names of the direct or indirect clients, are kept anonymous.   Again, similar to approach (A), all of OpeningDETAIL's newly created digital documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our clients] and OpeningDETAIL.  
+ * **Approach (B): An Anonymous Open Approach** where all newly created documentation is shared publicly, however, the project location and the names of the direct or indirect clients, are kept anonymous.   Again, similar to approach (A), all of OpeningDETAIL's newly created digital documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our client] and OpeningDETAIL.  
 	 * **The following is a sample project, from our sister company OpeningDesign, that used this approach:**
 		 * An office/warehouse facility in southern Wisconsin, of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDesign/Open_Source_Metal_Building).
 
 <br>
 
 ### Approach C
- * **Approach &#40;C): The Traditional Approach** where all documentation, and clients involved, remains confidential and private.  Other than any previous open source content used to compose the CD set, [our clients] are deemed the authors and owners of the resultant construction documents (Instruments of Service), and retain all common law and statutory rights, including copyright.
+ * **Approach &#40;C): The Traditional Approach** where all documentation, and clients involved, remains confidential and private.  Other than any previous open source content used to compose the CD set, [our client] are deemed the authors and owners of the resultant construction documents (Instruments of Service), and retain all common law and statutory rights, including copyright.
 
 <br>
 
 > - Please note, no matter which approach (A, B, or C) is used above...
-> 	-  Any construction documents and/or the associated digital (BIM/CAD) files [our clients] provide prior and/or during the project **WILL NOT** be shared publicly.  Only the construction details (as it applies to Approach A & B only) that OpeningDETAIL composes, will be open source and developed out-in-the-open.
-> 	- Any prior emails, or any emails between [our clients] and OpeningDETAIL, or any other parties during the duration of the project, **WILL NOT** be shared publicly.
-> 	- Also, we will not make public anything that [our clients] explicitly indicates should be kept private.
+> 	-  Any construction documents and/or the associated digital (BIM/CAD) files [our client] provide prior and/or during the project **WILL NOT** be shared publicly.  Only the construction details (as it applies to Approach A & B only) that OpeningDETAIL composes, will be open source and developed out-in-the-open.
+> 	- Any prior emails, or any emails between [our client] and OpeningDETAIL, or any other parties during the duration of the project, **WILL NOT** be shared publicly.
+> 	- Also, we will not make public anything that [our client] explicitly indicates should be kept private.
 
 
 <br>
@@ -57,53 +97,67 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 ---
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Hourly Rates Relative to Workflow	
 
 The following is a breakdown on how fees are prorated relative to how 'open' the project can be.
 <br> 
-
 <table cellspacing="0" border="0">
 	<colgroup width="275"></colgroup>
 	<colgroup span="4" width="90"></colgroup>
 	<tbody><tr>
-		<td height="103" align="center" valign="middle"><b><font face="Century Gothic">Skill Level</font></b></td>
-		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(A)</font></b></td>
-		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(B)</font></b></td>
-		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(C)</font></b></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Century Gothic">A Rough Estimated Percentage of Fees</font></b></td>
+		<td height="103" align="center" valign="middle"><b><font face="Lato">Skill Level</font></b></td>
+		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(A)</font></b></td>
+		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(B)</font></b></td>
+		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(C)</font></b></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Lato">A Rough Estimated Percentage of Fees</font></b></td>
 	</tr>
 	<tr>
-		<td colspan="5" height="17" align="left" valign="middle"><b><font face="Century Gothic">OpeningDETAIL</font></b></td>
+		<td colspan="5" height="17" align="left" valign="middle"><b><font face="Lato">OpeningDETAIL</font></b></td>
 		</tr>
 	<tr>
-		<td height="17" align="left"><font face="Century Gothic">Skill Level 1 (Senior Architect)</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$85/HR</font></td>
-		<td align="center" valign="middle" sdval="0.35" sdnum="1033;0;0.0%"><font face="Century Gothic">35.0%</font></td>
+		<td height="17" align="left"><font face="Lato">Skill Level 1 (Senior Architect)</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
+		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
+		<td align="center" valign="middle" sdval="0.65" sdnum="1033;0;0.0%"><font face="Lato">65.0%</font></td>
 	</tr>
 	<tr>
-		<td height="17" align="left"><font face="Century Gothic">Skill Level 2 (Architect)</font></td>
-		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$55/HR</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="0.45" sdnum="1033;0;0.0%"><font face="Century Gothic">45.0%</font></td>
+		<td height="17" align="left"><font face="Lato">Skill Level 2 (Architect)</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
+		<td align="center" valign="middle" sdval="0.25" sdnum="1033;0;0.0%"><font face="Lato">25.0%</font></td>
 	</tr>
 	<tr>
-		<td height="17" align="left"><font face="Century Gothic">Skill Level 3 (Intern)</font></td>
-		<td align="center" valign="middle" sdval="45" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$45/HR</font></td>
-		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$55/HR</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
-		<td align="center" valign="middle" sdval="0.2" sdnum="1033;0;0.0%"><font face="Century Gothic">20.0%</font></td>
+		<td height="17" align="left"><font face="Lato">Skill Level 3 (Intern)</font></td>
+		<td align="center" valign="middle" sdval="45" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$45/HR</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="0.1" sdnum="1033;0;0.0%"><font face="Lato">10.0%</font></td>
 	</tr>
 	<tr>
-		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Century Gothic">TOTAL</font></b></td>
-		<td align="center" valign="middle" sdval="1" sdnum="1033;0;0.0%"><font face="Century Gothic">100.0%</font></td>
+		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">TOTAL</font></b></td>
+		<td align="center" valign="middle" sdval="1" sdnum="1033;0;0.0%"><font face="Lato">100.0%</font></td>
 	</tr>
 </tbody></table>
 
-*Please note, skill level allocation may change from project to project.*
+<br>
+
+***Please note, the allocation percentages of the various skill levels is a rough estimate.  They may change during the project.***
+
 
 
 >We have found using hourly rates, opposed to lump sums, are win-win for both parties.  OpeningDETAIL has a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  
@@ -115,6 +169,20 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 ---
 
 
+## A Rough Estimate
+
+Although our proposal is based on an hourly rate alone, to give [our client] a ballpark figure,  under typical conditions, we estimate each small scale (3" = 1'-0") detail will be between $175-$275.
+
+At (44) details *(as outlined in [our client]'s recent marked up PDF)* it would be between $7,700-$12,200.
+
+Obviously, the cost per detail will be more at first, as we get up to speed with desired materials and construction methods, but the more details we do, the more efficient we will be. 
+
+Also, the more design iteration we do with [our client], the higher the cost per detail will be.
+
+In addition, the more we're able to tap into our existing library of details, the lower these costs will be.
+
+
+---
 
 
 ## Reimbursable expenses include:
@@ -176,7 +244,7 @@ Using a combination of [Revit](https://www.autodesk.com/products/revit-family/ov
 
 Also, by using 3D and the open [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes) format, we are able to roundtrip our details between FreeCAD and Revit.  This, along with the automated annotation, in part, allows us to keep costs down.  
 
-During the project, at milestone issuances, and at any requested interval, we are happy to share the following file formats with [our clients].
+During the project, at milestone issuances, (or at any requested interval), we are happy to share the following file formats with [our client].
 * Revit
 * DWGs
 * PDFs
@@ -185,7 +253,7 @@ During the project, at milestone issuances, and at any requested interval, we ar
 <br>
 
 ### File Hosting
-Internally, OpeningDETAIL uses [GitHub](https://github.com/) for file sharing and version tracking of files. Although it is not required that [our clients] use Github, if they so choose, they are welcome to sync our the project [repo](https://en.wikipedia.org/wiki/Repository_(version_control)) at any time.  
+Internally, OpeningDETAIL uses [GitHub](https://github.com/) for file sharing and version tracking of files. Although it is not required that [our client] use Github, if they so choose, they are welcome to sync our the project [repo](https://en.wikipedia.org/wiki/Repository_(version_control)) at any time.  
 
 Although there is a slight learning curve to its use, more graphical interfaces, such as Github's [desktop client](https://desktop.github.com/), make it a little easier to sync files.
 
@@ -283,5 +351,6 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMjUyNjIwXX0=
+eyJoaXN0b3J5IjpbMTk3MzIzMDk4NiwtMTc5NTkwNjIzMCwzOD
+EyNTI2MjAsOTQ4NjY2Mjg3XX0=
 -->
