@@ -9,9 +9,10 @@
 
 <br>
 
-
+<!--
 
 <img align="left" src="https://" width="450px">
+-->
 
 <br>
 <br>
@@ -19,15 +20,8 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## xxx
+## [Generic Proposal]
 
 
 #### An [OpeningDETAIL](http://openingdetail.com/) Proposal for Construction Document Services
@@ -42,7 +36,7 @@ FOR:
 ---
 
 
-Hi Anders,
+Hi {},
 
 Was a pleasure chatting the other day. I'm excited about the potential of working together!
 
@@ -76,8 +70,8 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 
 ### Approach B
  * **Approach (B): An Anonymous Open Approach** where all newly created documentation is shared publicly, however, the project location and the names of the direct or indirect clients, are kept anonymous.   Again, similar to approach (A), all of OpeningDETAIL's newly created digital documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our client] and OpeningDETAIL.  
-	 * **The following is a sample project, from our sister company OpeningDesign, that used this approach:**
-		 * An office/warehouse facility in southern Wisconsin, of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDesign/Open_Source_Metal_Building).
+	 * **The following is a sample project that used this approach:**
+		 * A residence in Laguna Beach, CA, of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDETAIL/Laguna_Beach_Residence/tree/master/Models%20%26%20CAD/BIM).
 
 <br>
 
@@ -156,9 +150,9 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 
 <br>
 
-***Please note, the allocation percentages of the various skill levels is a rough estimate.  They may change during the project.***
-
-
+ - ***Please note, the allocation percentages of the various skill levels is a rough estimate.  They may change during the project.***
+ - Add an additional 10% to accommodate match [our client]'s BIM standards
+	 - Certain standards, cannot be accommodated. 
 
 >We have found using hourly rates, opposed to lump sums, are win-win for both parties.  OpeningDETAIL has a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  
 >
@@ -273,6 +267,8 @@ Although there is a slight learning curve to its use, more graphical interfaces,
 	* [Project 1](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%201)
 	* [Project 2](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%202)
 	* [Project 3](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%203)
+	* [Project 4](https://github.com/OpeningDETAIL/Sample_Projects/tree/master/Sample%20Projects/Project%204%20-%20Laguna%20Beach)
+
 <br>
 
 ---
@@ -357,6 +353,7 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyMDc0NDYsMTk3MzIzMDk4NiwtMTc5NT
-kwNjIzMCwzODEyNTI2MjAsOTQ4NjY2Mjg3XX0=
+eyJoaXN0b3J5IjpbMzA0MTc2ODEyLC0zNTgyNTM1MzUsLTIwMz
+g5NDg0NjUsNDIyMDc0NDYsMTk3MzIzMDk4NiwtMTc5NTkwNjIz
+MCwzODEyNTI2MjAsOTQ4NjY2Mjg3XX0=
 -->
