@@ -21,33 +21,34 @@
 <br>
 <br>
 
-## [Generic Proposal]
+## [Generic] Proposal
 
 
 #### An [OpeningDETAIL](http://openingdetail.com/) Proposal for Construction Document Services
 
+####
 ---
 FOR:
 
+XXX
 
-> xxx<br>
-> xxx<br>
-> xxx<br>
+<!--
+
 ---
 
 
-Hi {},
+Hi Anders,
 
-Was a pleasure chatting the other day. I'm excited about the potential of working together!
+We're excited about the potential of working together again.
 
 Thank you for the opportunity to share the following proposal.
 
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, on a high-level, we understand that the project will include the following list of requirements/priorities...
 
-- Help developing and drafting small scale construction (3"=1'-0") details for...
+- Help developing and drafting small scale construction (3"=1'-0") details for McElroy Residence in Newport Beach, CA.
 - The details will be modeled per the workflow outlined in the **CD Documentation** section below. 
 
-
+-->
 
 ---
 
@@ -72,6 +73,8 @@ To address [our client]'s potential concerns, if any, we would like to offer the
  * **Approach (B): An Anonymous Open Approach** where all newly created documentation is shared publicly, however, the project location and the names of the direct or indirect clients, are kept anonymous.   Again, similar to approach (A), all of OpeningDETAIL's newly created digital documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our client] and OpeningDETAIL.  
 	 * **The following is a sample project that used this approach:**
 		 * A residence in Laguna Beach, CA, of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDETAIL/Laguna_Beach_Residence/tree/master/Models%20%26%20CAD/BIM).
+		 * Although currently in progress, [here's](https://github.com/OpeningDETAIL/Newport_Beach_CA_Residence/tree/master/Models%20&%20CAD/BIM) the CAD/BIM files for a residence in Newport Beach, CA.
+			 * If curious, [here's](https://riot.im/app/#/room/#Newport_Beach_Residence:matrix.org/$15423149597772kkDZi:matrix.org) the public chat room we are using during the duration of this project.
 
 <br>
 
@@ -86,23 +89,10 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 > 	- Also, we will not make public anything that [our client] explicitly indicates should be kept private.
 
 
-<br>
+
 
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Hourly Rates Relative to Workflow	
 
@@ -123,23 +113,23 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 		</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 1 (Senior Architect)</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
+		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
+		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$95/HR</font></td>
 		<td align="center" valign="middle" sdval="0.65" sdnum="1033;0;0.0%"><font face="Lato">65.0%</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 2 (Architect)</font></td>
-		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
+		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
 		<td align="center" valign="middle" sdval="0.25" sdnum="1033;0;0.0%"><font face="Lato">25.0%</font></td>
 	</tr>
 	<tr>
 		<td height="17" align="left"><font face="Lato">Skill Level 3 (Intern)</font></td>
-		<td align="center" valign="middle" sdval="45" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$45/HR</font></td>
-		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="45" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
 		<td align="center" valign="middle" sdval="0.1" sdnum="1033;0;0.0%"><font face="Lato">10.0%</font></td>
 	</tr>
 	<tr>
@@ -151,8 +141,9 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 <br>
 
  - ***Please note, the allocation percentages of the various skill levels is a rough estimate.  They may change during the project.***
- - Add an additional 10% to accommodate match [our client]'s BIM standards
+<!-- - Add an additional 10% to accommodate match [our client]'s BIM standards
 	 - Certain standards, cannot be accommodated. 
+-->
 
 >We have found using hourly rates, opposed to lump sums, are win-win for both parties.  OpeningDETAIL has a little more safeguard against potential [scope creep](https://en.wikipedia.org/wiki/Scope_creep) and the client can realize more economical fees if they are able to make decisions quicker and more consistently--moving the design of the project along quicker.  
 >
@@ -166,15 +157,16 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 ## A Rough Estimate
 
 Although our proposal is based on an hourly rate alone, to give [our client] a ballpark figure,  under typical conditions, we estimate each small scale (3" = 1'-0") detail will be between...
-- Approach A: $175-$275
-- Approach B: $200-300
-- Approach C: $225-350
+- Approach A: $185-$205
+- Approach B: $205-$225
+- Approach C: $225-$245
 
-At (44) details *(as outlined in [our client]'s recent marked up PDF)* it would be between...
-- Approach A: $7,700-$12,200
-- Approach B: $8800-$13,200
-- Approach C: $9900-$15400
-
+<!--
+At roughly (65) details *(as outlined in [our client]'s recent marked up PDF)* it would be between...
+- Approach A: $10,725-$12,025
+- Approach B: $12,025-$13,325
+- Approach C: $13,325-$14,625
+-->
 Obviously, the cost per detail will be more at first, as we get up to speed with desired materials and construction methods, but the more details we do, the more efficient we will be. 
 
 Also, the more design iteration we do with [our client], the higher the cost per detail will be.
@@ -222,14 +214,14 @@ From the onset, and throughout the duration of the project, we like to keep the 
 
 * Screensharing
 	* [Zoom](https://www.zoom.us)
-	* [Jitsi](https://meet.jit.si/)
 * IM for quick one-off conversations
-	* [Google Hangout](https://hangouts.google.com/)
+	* [Riot.im](https://riot.im/app)
+		* [Here's](https://github.com/OpeningDETAIL/Newport_Beach_CA_Residence/tree/master/Models%20&%20CAD/BIM) a public example
 * Graphical IM (real-time sketching over imported screenshots)
 	* [EtherDraw](http://sketch.openingdesign.com/)
 * Issue Tracking
 	* [Github](https://github.com/)
-		* [Here's an Example](https://github.com/OpeningDesign/Sports_Complex/issues?q=is:issue+is:closed+sort:comments-desc)
+		* [Here's](https://github.com/OpeningDesign/Sports_Complex/issues?q=is:issue+is:closed+sort:comments-desc)  an example
 * Graphical Issue Tracking and Redlining
 	* Simple PDF markups.
 	* Web-based markup tools:
@@ -353,7 +345,10 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MTc2ODEyLC0zNTgyNTM1MzUsLTIwMz
-g5NDg0NjUsNDIyMDc0NDYsMTk3MzIzMDk4NiwtMTc5NTkwNjIz
-MCwzODEyNTI2MjAsOTQ4NjY2Mjg3XX0=
+eyJoaXN0b3J5IjpbLTU0NzEyOTg4NiwtMTU3NDY2NDQxNSwxND
+k4MTk5ODcwLC0yMDI1MzYyODQwLC0xNDcxMTQ2NTE0LDEwNjM2
+MjcxODYsMTQ2NDAyMTY0LDkxNTcwNDE3MSwzMDQxNzY4MTIsLT
+M1ODI1MzUzNSwtMjAzODk0ODQ2NSw0MjIwNzQ0NiwxOTczMjMw
+OTg2LC0xNzk1OTA2MjMwLDM4MTI1MjYyMCw5NDg2NjYyODddfQ
+==
 -->
