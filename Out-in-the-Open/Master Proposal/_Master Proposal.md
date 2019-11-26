@@ -79,7 +79,7 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 <br>
 
 ### Approach C
- * **Approach &#40;C): The Traditional Approach** where all documentation, and clients involved, remains confidential and private.  Other than any previous open source content used to compose the CD set, [our client] are deemed the authors and owners of the resultant construction documents (Instruments of Service), and retain all common law and statutory rights, including copyright.
+ * **Approach &#40;C): A More Traditional Closed Approach** where all documentation, and clients involved, remains confidential and private.  Other than any previous open source content used to compose the CD set, [our client] are deemed the authors and owners of the resultant construction documents (Instruments of Service), and retain all common law and statutory rights, including copyright.
 
 <br>
 
@@ -157,9 +157,9 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 ## A Rough Estimate
 
 Although our proposal is based on an hourly rate alone, to give [our client] a ballpark figure,  under typical conditions, we estimate each small scale (3" = 1'-0") detail will be between...
-- Approach A: $185-$205
-- Approach B: $205-$225
-- Approach C: $225-$245
+- Approach A: $205-$225
+- Approach B: $225-$245
+- Approach C: $245-$265
 
 <!--
 At roughly (65) details *(as outlined in [our client]'s recent marked up PDF)* it would be between...
@@ -304,12 +304,13 @@ Madison, Wisconsin 53703<br>
 <br>
 
 
+
+
+
 ### Authorized by:
 
 
-
-
-* Please indicated preferred Fee Proposal Option (**A**, **B**, or **C**):
+* Please indicate preferred Fee Proposal Option (**A**, **B**, or **C**):
 
 
 ---
@@ -333,7 +334,6 @@ Madison, Wisconsin 53703<br>
 ---
 
 
-
 ### License
 
 
@@ -345,10 +345,11 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzEyOTg4NiwtMTU3NDY2NDQxNSwxND
-k4MTk5ODcwLC0yMDI1MzYyODQwLC0xNDcxMTQ2NTE0LDEwNjM2
-MjcxODYsMTQ2NDAyMTY0LDkxNTcwNDE3MSwzMDQxNzY4MTIsLT
-M1ODI1MzUzNSwtMjAzODk0ODQ2NSw0MjIwNzQ0NiwxOTczMjMw
-OTg2LC0xNzk1OTA2MjMwLDM4MTI1MjYyMCw5NDg2NjYyODddfQ
-==
+eyJoaXN0b3J5IjpbMTAyMzI4ODQ1OCwxOTEyNDI0MTU5LC0xMT
+E5NjU2ODYzLDMzNTk5NDY4MywyMDk4MDA4NDM2LDIxMjI1MjE4
+NjAsLTE5NTMxNDE4OTcsLTU0NzEyOTg4NiwtMTU3NDY2NDQxNS
+wxNDk4MTk5ODcwLC0yMDI1MzYyODQwLC0xNDcxMTQ2NTE0LDEw
+NjM2MjcxODYsMTQ2NDAyMTY0LDkxNTcwNDE3MSwzMDQxNzY4MT
+IsLTM1ODI1MzUzNSwtMjAzODk0ODQ2NSw0MjIwNzQ0NiwxOTcz
+MjMwOTg2XX0=
 -->
