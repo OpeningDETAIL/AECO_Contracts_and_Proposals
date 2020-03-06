@@ -15,13 +15,11 @@
 -->
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## [Generic] Proposal
+
+<!--## [Generic] Proposal-->
+
+## [Generic Proposal]
 
 
 #### An [OpeningDETAIL](http://openingdetail.com/) Proposal for Construction Document Services
@@ -30,31 +28,32 @@
 ---
 FOR:
 
-XXX
+>xxx
+>xxx
+>xxx
 
-<!--
+
 
 ---
 
 
-Hi Anders,
 
-We're excited about the potential of working together again.
+
+
 
 Thank you for the opportunity to share the following proposal.
 
 Although a more nuanced list of requirements will undoubtedly unfold as the project evolves, on a high-level, we understand that the project will include the following list of requirements/priorities...
 
-- Help developing and drafting small scale construction (3"=1'-0") details for McElroy Residence in Newport Beach, CA.
-- The details will be modeled per the workflow outlined in the **CD Documentation** section below. 
+- xxx
+- xxx
 
--->
 
 ---
 
 ## Workflow Options
 
-Over the years, OpeningDETAIL has developed a preferred and unique way of working.  Although our website's [About page](http://openingdetail.com/a-little-more-about-us/) provides more detail, in a nutshell, most of our projects are [open source](http://en.wikipedia.org/wiki/Open_source) and are conducted **out-in-the-open**.
+Over the years, OpeningDETAIL has developed a preferred and unique way of working.  Although our website's [about page](http://openingdetail.com/a-little-more-about-us/) provides more detail, in a nutshell, most of our projects are [open source](http://en.wikipedia.org/wiki/Open_source) and are conducted **out-in-the-open**.
 
 Simply put, this way of working allows OpeningDETAIL and [our extended team of global collaborators](http://openingdetail.com/people/), to be more efficient--ultimately keeping costs down and bringing more value to our clients.  Having said that, we understand some clients may have hesitations regarding this approach.
 
@@ -63,9 +62,23 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 
 ### Approach A
  * **Approach (A): A Fully Open Approach** where all the newly created documentation, the project location, and the names of the parties involved in the project *(essentially those listed in the project's title block)* are known and are shared publicly.  All of OpeningDETAIL's newly created documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our client] and OpeningDETAIL.  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) are honored. 
+
+
 	 * **The following are sample projects, from our sister company OpeningDesign, that used this approach:**
-		 * A **Sport Complex** in Jefferson, WI, the files (CAD/BIM) of which can be found [here](https://github.com/OpeningDesign/Sports_Complex) and a log of communication that happened between the design team and general contractor, [here](https://github.com/OpeningDesign/Sports_Complex/issues?q=is:issue+is:closed+sort:comments-desc).
-		 * A **Vacation Rental** project in Lake Geneva, WI.  The (CAD/BIM) documents can be found [here](https://github.com/OpeningDesign/Vacation_Rental) and the log of communication between the design team can be found [here](https://github.com/OpeningDesign/Vacation_Rental/issues?q=is%3Aissue+is%3Aclosed+sort%3Acomments-desc).
+		 * A 71 unit **multifamily** project in Eau Claire, WI
+			 * The CAD/BIM documents can be found [here](https://github.com/OpeningDesign/CTR/tree/master/Models%20%26%20CAD)
+			 * [Here's](https://riot.im/app/#/room/!qPmKPXfEHEqedAwbst:matrix.org/$1552319873106429LgmUj:matrix.org) a log of communication between the design team
+			 * Online issue tracker [here](https://github.com/OpeningDesign/CTR/issues?q=)
+		 * A **sport complex** in Jefferson, WI
+			 * The CAD/BIM files can be found [here](https://github.com/OpeningDesign/Sports_Complex)
+			 * [Here's](https://github.com/OpeningDesign/Sports_Complex/issues?q=is:issue+is:closed+sort:comments-desc) the log of communication between the design team and general contractor
+		 * A **vacation rental** in Lake Geneva, WI
+			 * The CAD/BIM documents can be found [here](https://github.com/OpeningDesign/Vacation_Rental)
+			 *  [Here's](https://github.com/OpeningDesign/Vacation_Rental/issues?q=is%3Aissue+is%3Aclosed+sort%3Acomments-desc) a log of communication between the design team
+
+
+
+
 
 <br>
 
@@ -73,8 +86,8 @@ To address [our client]'s potential concerns, if any, we would like to offer the
  * **Approach (B): An Anonymous Open Approach** where all newly created documentation is shared publicly, however, the project location and the names of the direct or indirect clients, are kept anonymous.   Again, similar to approach (A), all of OpeningDETAIL's newly created digital documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our client] and OpeningDETAIL.  
 	 * **The following is a sample project that used this approach:**
 		 * A residence in Laguna Beach, CA, of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDETAIL/Laguna_Beach_Residence/tree/master/Models%20%26%20CAD/BIM).
-		 * Although currently in progress, [here's](https://github.com/OpeningDETAIL/Newport_Beach_CA_Residence/tree/master/Models%20&%20CAD/BIM) the CAD/BIM files for a residence in Newport Beach, CA.
-			 * If curious, [here's](https://riot.im/app/#/room/#Newport_Beach_Residence:matrix.org/$15423149597772kkDZi:matrix.org) the public chat room we are using during the duration of this project.
+		 * A residence in Newport Beach, CA. of which the (CAD/BIM) files can be found [here](https://github.com/OpeningDETAIL/Newport_Beach_CA_Residence/tree/master/Models%20&%20CAD/BIM) the CAD/BIM files for a residence in 
+			 * If curious, [here's](https://riot.im/app/#/room/#Newport_Beach_Residence:matrix.org/$15423149597772kkDZi:matrix.org) the public chat room we used during the duration of this project.
 
 <br>
 
@@ -98,43 +111,45 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 
 The following is a breakdown on how fees are prorated relative to how 'open' the project can be.
 <br> 
+
+
 <table cellspacing="0" border="0">
 	<colgroup width="275"></colgroup>
 	<colgroup span="4" width="90"></colgroup>
 	<tbody><tr>
-		<td height="103" align="center" valign="middle"><b><font face="Lato">Skill Level</font></b></td>
-		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(A)</font></b></td>
-		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(B)</font></b></td>
-		<td align="center" valign="middle"><b><font face="Lato">Approach<br>(C)</font></b></td>
-		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Lato">A Rough Estimated Percentage of Fees</font></b></td>
+		<td height="103" align="center" valign="middle"><b><font face="Century Gothic">Skill Level</font></b></td>
+		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(A)</font></b></td>
+		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(B)</font></b></td>
+		<td align="center" valign="middle"><b><font face="Century Gothic">Approach<br>(C)</font></b></td>
+		<td align="center" valign="middle" sdnum="1033;0;0.0%"><b><font face="Century Gothic">A Rough Estimated Percentage of Fees</font></b></td>
 	</tr>
 	<tr>
-		<td colspan="5" height="17" align="left" valign="middle"><b><font face="Lato">OpeningDETAIL</font></b></td>
+		<td colspan="5" height="17" align="left" valign="middle"><b><font face="Century Gothic">OpeningDETAIL</font></b></td>
 		</tr>
 	<tr>
-		<td height="17" align="left"><font face="Lato">Skill Level 1 (Senior Architect)</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
-		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$95/HR</font></td>
-		<td align="center" valign="middle" sdval="0.65" sdnum="1033;0;0.0%"><font face="Lato">65.0%</font></td>
+		<td height="17" align="left"><font face="Century Gothic">Skill Level 1 (Senior Architect)</font></td>
+		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
+		<td align="center" valign="middle" sdval="85" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$85/HR</font></td>
+		<td align="center" valign="middle" sdval="95" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$95/HR</font></td>
+		<td align="center" valign="middle" sdval="0.4" sdnum="1033;0;0.0%"><font face="Century Gothic">40.0%</font></td>
 	</tr>
 	<tr>
-		<td height="17" align="left"><font face="Lato">Skill Level 2 (Architect)</font></td>
-		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$85/HR</font></td>
-		<td align="center" valign="middle" sdval="0.25" sdnum="1033;0;0.0%"><font face="Lato">25.0%</font></td>
+		<td height="17" align="left"><font face="Century Gothic">Skill Level 2 (Architect)</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$55/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="75" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$75/HR</font></td>
+		<td align="center" valign="middle" sdval="0.3" sdnum="1033;0;0.0%"><font face="Century Gothic">30.0%</font></td>
 	</tr>
 	<tr>
-		<td height="17" align="left"><font face="Lato">Skill Level 3 (Intern)</font></td>
-		<td align="center" valign="middle" sdval="45" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$55/HR</font></td>
-		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$65/HR</font></td>
-		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Lato">$75/HR</font></td>
-		<td align="center" valign="middle" sdval="0.1" sdnum="1033;0;0.0%"><font face="Lato">10.0%</font></td>
+		<td height="17" align="left"><font face="Century Gothic">Skill Level 3 (Intern)</font></td>
+		<td align="center" valign="middle" sdval="45" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$45/HR</font></td>
+		<td align="center" valign="middle" sdval="55" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$55/HR</font></td>
+		<td align="center" valign="middle" sdval="65" sdnum="1033;0;&quot;$&quot;#,##0&quot;/HR&quot;"><font face="Century Gothic">$65/HR</font></td>
+		<td align="center" valign="middle" sdval="0.3" sdnum="1033;0;0.0%"><font face="Century Gothic">30.0%</font></td>
 	</tr>
 	<tr>
-		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Lato">TOTAL</font></b></td>
-		<td align="center" valign="middle" sdval="1" sdnum="1033;0;0.0%"><font face="Lato">100.0%</font></td>
+		<td colspan="4" height="17" align="left" valign="middle"><b><font face="Century Gothic">TOTAL</font></b></td>
+		<td align="center" valign="middle" sdval="1" sdnum="1033;0;0.0%"><font face="Century Gothic">100.0%</font></td>
 	</tr>
 </tbody></table>
 
@@ -154,19 +169,13 @@ The following is a breakdown on how fees are prorated relative to how 'open' the
 ---
 
 
-## A Rough Estimate
+## Not-to-exceed Fee
 
-Although our proposal is based on an hourly rate alone, to give [our client] a ballpark figure,  under typical conditions, we estimate each small scale (3" = 1'-0") detail will be between...
-- Approach A: $205-$225
-- Approach B: $225-$245
-- Approach C: $245-$265
+At roughly (xx) details *(as outlined in [our client]'s recent marked up PDF)*, the not-to-exceed fees for the three approaches are as follows:
+- Approach A: $xxx ($275 per detail)
+- Approach B: $xxx ($300 per detail)
+- Approach C: $xxx ($325 per detail)
 
-<!--
-At roughly (65) details *(as outlined in [our client]'s recent marked up PDF)* it would be between...
-- Approach A: $10,725-$12,025
-- Approach B: $12,025-$13,325
-- Approach C: $13,325-$14,625
--->
 Obviously, the cost per detail will be more at first, as we get up to speed with desired materials and construction methods, but the more details we do, the more efficient we will be. 
 
 Also, the more design iteration we do with [our client], the higher the cost per detail will be.
@@ -183,7 +192,7 @@ In addition, the more we're able to tap into our existing library of details, th
 
 
 * Transportation in connection with the project for travel authorized by the client (transportation, lodging and meals)
-	* $0.54 per mile for travel
+	* $1.00 per mile for travel
 * Communication and shipping costs (long distance charges, courier, postage, dedicated web hosting, etc.)
 * Reproduction costs for plans, sketches, drawings, graphic representations and other documents
 * Renderings, models, prints of computer-generated drawings, mock-ups specifically	requested	 by the client
@@ -201,10 +210,7 @@ In addition, the more we're able to tap into our existing library of details, th
 
 
 
-<br>
-
 ## Typical Workflow & Technologies
-<br>
 
 ### Communication
 
@@ -216,36 +222,33 @@ From the onset, and throughout the duration of the project, we like to keep the 
 	* [Zoom](https://www.zoom.us)
 * IM for quick one-off conversations
 	* [Riot.im](https://riot.im/app)
-		* [Here's](https://github.com/OpeningDETAIL/Newport_Beach_CA_Residence/tree/master/Models%20&%20CAD/BIM) a public example
+		*  [Here's](https://riot.im/app/#/room/#Newport_Beach_Residence:matrix.org/$15423149597772kkDZi:matrix.org)  a public example
 * Graphical IM (real-time sketching over imported screenshots)
-	* [EtherDraw](http://sketch.openingdesign.com/)
+	* [First Draft](http://dev.first-draft.xyz/)
 * Issue Tracking
 	* [Github](https://github.com/)
-		* [Here's](https://github.com/OpeningDesign/Sports_Complex/issues?q=is:issue+is:closed+sort:comments-desc)  an example
-* Graphical Issue Tracking and Redlining
-	* Simple PDF markups.
-	* Web-based markup tools:
-		* [PlanGrid](https://plangrid.com/)
-		* [RealtimeBoard](https://realtimeboard.com/)
+		* [Here's](https://github.com/OpeningDesign/CTR/issues?q=) a public example
+
 
 <br>
 
 ### CD Documentation
 
-Using a combination of [Revit](https://www.autodesk.com/products/revit-family/overview), [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes), [FreeCad](https://www.freecadweb.org/) & [Dynamo](http://dynamobim.org/) Scripts, **OpeningDETAIL** uses a unique methodology to compose our client's small scale details.  Instead of 2D fills, lines, and simple text annotation, as is typically done with details in Revit, we model our details in 3D.  By attaching various material assignments to these 3D objects, along with Revit's intelligent **Material Tag** and a custom **Dynamo Script**, we are able to automate the annotation of these details.
+Using a combination of [Revit](https://www.autodesk.com/products/revit-family/overview), [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes), [FreeCad](https://www.freecadweb.org/), [Blender](https://www.blender.org/) & [Dynamo](http://dynamobim.org/) Scripts, **OpeningDETAIL** uses a unique methodology to compose our client's small scale details.  Instead of 2D fills, lines, and simple text annotation, as is typically done with details in Revit, we model our details in 3D.  By attaching various material assignments to these 3D objects, along with Revit's intelligent **Material Tag** and a custom **Dynamo Script**, we are able to automate the annotation of these details.
 
-Also, by using 3D and the open [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes) format, we are able to roundtrip our details between FreeCAD and Revit.  This, along with the automated annotation, in part, allows us to keep costs down.  
+Also, by using 3D and the open [IFC](https://en.wikipedia.org/wiki/Industry_Foundation_Classes) format, we are able to roundtrip our details between FreeCAD, Blender and Revit.  This, along with the automated annotation, in part, allows us to keep costs down.  
 
 During the project, at milestone issuances, (or at any requested interval), we are happy to share the following file formats with [our client].
 * Revit
 * DWGs
 * PDFs
 * IFC
+* Any other native files that are part of process
 
 <br>
 
 ### File Hosting
-Internally, OpeningDETAIL uses [GitHub](https://github.com/) for file sharing and version tracking of files. Although it is not required that [our client] use Github, if they so choose, they are welcome to sync our the project [repo](https://en.wikipedia.org/wiki/Repository_(version_control)) at any time.  
+Internally, OpeningDETAIL uses [GitHub](https://github.com/) for file sharing and version tracking of files. Although it is not required that [our client] use Github, if they so choose, they are welcome to sync our project [repo](https://en.wikipedia.org/wiki/Repository_(version_control)) at any time.  
 
 Although there is a slight learning curve to its use, more graphical interfaces, such as Github's [desktop client](https://desktop.github.com/), make it a little easier to sync files.
 
@@ -294,11 +297,11 @@ Kind Regards,
 <img src="https://raw.githubusercontent.com/OpeningDesign/OD_Library/master/Marketing/Signatures/signature.jpg" width="200px"/>
 
 
-Ryan Schultz<br>
-ryan@openingDETAIL.com<br>
-773.425.6456<br>
-316 W Washington Ave | #675<br>
-Madison, Wisconsin 53703<br>
+Ryan Schultz
+ryan@openingDETAIL.com
+773.425.6456
+316 W Washington Ave | #675
+Madison, Wisconsin 53703
 
 
 <br>
@@ -345,11 +348,11 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzI4ODQ1OCwxOTEyNDI0MTU5LC0xMT
-E5NjU2ODYzLDMzNTk5NDY4MywyMDk4MDA4NDM2LDIxMjI1MjE4
-NjAsLTE5NTMxNDE4OTcsLTU0NzEyOTg4NiwtMTU3NDY2NDQxNS
-wxNDk4MTk5ODcwLC0yMDI1MzYyODQwLC0xNDcxMTQ2NTE0LDEw
-NjM2MjcxODYsMTQ2NDAyMTY0LDkxNTcwNDE3MSwzMDQxNzY4MT
-IsLTM1ODI1MzUzNSwtMjAzODk0ODQ2NSw0MjIwNzQ0NiwxOTcz
-MjMwOTg2XX0=
+eyJoaXN0b3J5IjpbMzg1MzU0MDYwLDEyMzc5NTEzNDIsLTEwMT
+k5NjM0OTQsMTkyNDg0MDAxLC03MDY0MjE0MzcsLTY4ODA3ODYz
+MywxODA0NTEyOTQwLDcyNzUyODQxNCwtMTEzNDQ5OTEzMCw3Mj
+YxMTk3LDY3Nzk1NzcxMSwtNjIwMjY4NDgzLDIxMTAwMzQ4NTEs
+LTEyMDg4MjMyNiwyNjc5MTY4MDYsMTAyMzI4ODQ1OCwxOTEyND
+I0MTU5LC0xMTE5NjU2ODYzLDMzNTk5NDY4MywyMDk4MDA4NDM2
+XX0=
 -->
