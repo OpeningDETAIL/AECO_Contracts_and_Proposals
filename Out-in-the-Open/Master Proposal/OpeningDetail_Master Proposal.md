@@ -341,19 +341,17 @@ Madison, Wisconsin 53703
 ### License
 
 
-Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](http://openingdetail.com) projects is licensed under an open source, copyleft license: [Attribution 4.0 International  (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/88px-CC-BY_icon.svg.png" width="70px"> 
-
-[Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) to be given to both our clients and OpeningDETAIL.
+Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](http://openingdetail.com) projects is licensed under an open source, copyleft license: [Attribution 4.0 International  (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/88px-CC-BY_icon.svg.png" width="70px"> [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) to be given to both our clients and OpeningDETAIL.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NTYyMzE4LDM4NTM1NDA2MCwxMjM3OT
-UxMzQyLC0xMDE5OTYzNDk0LDE5MjQ4NDAwMSwtNzA2NDIxNDM3
-LC02ODgwNzg2MzMsMTgwNDUxMjk0MCw3Mjc1Mjg0MTQsLTExMz
-Q0OTkxMzAsNzI2MTE5Nyw2Nzc5NTc3MTEsLTYyMDI2ODQ4Mywy
-MTEwMDM0ODUxLC0xMjA4ODIzMjYsMjY3OTE2ODA2LDEwMjMyOD
-g0NTgsMTkxMjQyNDE1OSwtMTExOTY1Njg2MywzMzU5OTQ2ODNd
-fQ==
+eyJoaXN0b3J5IjpbLTIwOTg5MTc0NTQsODQ4NTYyMzE4LDM4NT
+M1NDA2MCwxMjM3OTUxMzQyLC0xMDE5OTYzNDk0LDE5MjQ4NDAw
+MSwtNzA2NDIxNDM3LC02ODgwNzg2MzMsMTgwNDUxMjk0MCw3Mj
+c1Mjg0MTQsLTExMzQ0OTkxMzAsNzI2MTE5Nyw2Nzc5NTc3MTEs
+LTYyMDI2ODQ4MywyMTEwMDM0ODUxLC0xMjA4ODIzMjYsMjY3OT
+E2ODA2LDEwMjMyODg0NTgsMTkxMjQyNDE1OSwtMTExOTY1Njg2
+M119
 -->
