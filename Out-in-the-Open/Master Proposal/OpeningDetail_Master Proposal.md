@@ -64,7 +64,7 @@ To address [our client]'s potential concerns, if any, we would like to offer the
  * **Approach (A): A Fully Open Approach** where all the newly created documentation, the project location, and the names of the parties involved in the project *(essentially those listed in the project's title block)* are known and are shared publicly.  All of OpeningDETAIL's newly created documentation/content is [open source](https://creativecommons.org/licenses/by/4.0/)—licensed to both [our client] and OpeningDETAIL.  That is, will be freely available to you, or any party, for future use, assuming the terms such as [Attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) are honored. 
 
 
-	 * **The following are sample projects, from our sister company OpeningDesign, that used this approach:**
+	 * **The following are sample projects, from our sister company [OpeningDesign](http://openingdesign.com), that used this approach:**
 		 * A 71 unit **multifamily** project in Eau Claire, WI
 			 * The CAD/BIM documents can be found [here](https://github.com/OpeningDesign/CTR/tree/master/Models%20%26%20CAD)
 			 * [Here's](https://riot.im/app/#/room/!qPmKPXfEHEqedAwbst:matrix.org/$1552319873106429LgmUj:matrix.org) a log of communication between the design team
@@ -93,6 +93,7 @@ To address [our client]'s potential concerns, if any, we would like to offer the
 
 ### Approach C
  * **Approach &#40;C): A More Traditional Closed Approach** where all documentation, and clients involved, remains confidential and private.  Other than any previous open source content used to compose the CD set, [our client] are deemed the authors and owners of the resultant construction documents (Instruments of Service), and retain all common law and statutory rights, including copyright.
+	 * We have yet to have a client use this approach, but understand that it might be important for certain projects.
 
 <br>
 
@@ -294,7 +295,7 @@ Please don't hesitate to contact me should you have any questions or need clarif
 Kind Regards,
 
 
-<img src="https://raw.githubusercontent.com/OpeningDesign/OD_Library/master/Marketing/Signatures/signature.jpg" width="200px"/>
+<img src="https://dl.dropboxusercontent.com/s/wwm6lvp04kvj6cn/signature.png?dl=0" width="200px"/>
 
 
 Ryan Schultz
@@ -348,11 +349,11 @@ Per usual, unless noted otherwise, all content associated with [OpeningDETAIL](h
 eyJoaXN0b3J5IjpbNjgwMTE4NDE5LC01MjkwMzY4MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MzU0MDYwLDEyMzc5NTEzNDIsLTEwMT
-k5NjM0OTQsMTkyNDg0MDAxLC03MDY0MjE0MzcsLTY4ODA3ODYz
-MywxODA0NTEyOTQwLDcyNzUyODQxNCwtMTEzNDQ5OTEzMCw3Mj
-YxMTk3LDY3Nzk1NzcxMSwtNjIwMjY4NDgzLDIxMTAwMzQ4NTEs
-LTEyMDg4MjMyNiwyNjc5MTY4MDYsMTAyMzI4ODQ1OCwxOTEyND
-I0MTU5LC0xMTE5NjU2ODYzLDMzNTk5NDY4MywyMDk4MDA4NDM2
-XX0=
+eyJoaXN0b3J5IjpbODQ4NTYyMzE4LDM4NTM1NDA2MCwxMjM3OT
+UxMzQyLC0xMDE5OTYzNDk0LDE5MjQ4NDAwMSwtNzA2NDIxNDM3
+LC02ODgwNzg2MzMsMTgwNDUxMjk0MCw3Mjc1Mjg0MTQsLTExMz
+Q0OTkxMzAsNzI2MTE5Nyw2Nzc5NTc3MTEsLTYyMDI2ODQ4Mywy
+MTEwMDM0ODUxLC0xMjA4ODIzMjYsMjY3OTE2ODA2LDEwMjMyOD
+g0NTgsMTkxMjQyNDE1OSwtMTExOTY1Njg2MywzMzU5OTQ2ODNd
+fQ==
 -->
